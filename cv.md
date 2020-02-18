@@ -36,3 +36,13 @@
 + c++  
 + HTML,CSS,JavaScript
 
+## Education
++ Inha Univercity in Tashkent(Computer Science and Engineering)  
++ RSSchool (on process)  
++ Codecademy(on process)  
++ ItWomen Uz
+## Languages   
++    English   
++    Korean   
++    Russian   
++    Chineese
