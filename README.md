@@ -1,1 +1,1 @@
-# rcschool-cv
+Asrolkhujayeva.github.io/rsschool-cv/
