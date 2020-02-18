@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    text-decoration: solid;
+   background-color: darkkhaki;
+    color: darkblue;
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: gainsboro; /* silver/gainsboro/lightgray ? */
+    width: 800px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 5px groove black;
+}
+p, ul {
+    line-height: 2;
+    letter-spacing: 1px;
+   
+}
+ul {
+    padding: 0;
+}
